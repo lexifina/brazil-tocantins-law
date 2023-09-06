@@ -1,0 +1,14 @@
+LEI Nº 4.224, DE 1º DE SETEMBRO DE 2023.
+Publicado no Diário Oficial nº 6407, de 06/09/2023.
+Declara de Utilidade Pública Estadual o Instituto
+Ministério Ebenézer.
+O Governador do Estado do Tocantins,
+Faço saber que a Assembleia Legislativa do Estado do Tocantins decreta e eu
+sanciono a seguinte Lei:
+Art.1º Fica declarada de Utilidade Pública Estadual o Instituto Ministério Ebenézer,
+com sede no Município de Miracema - TO.
+Art.2º Esta Lei entra em vigor na data de sua publicação.
+Palácio Araguaia Governador José Wilson Siqueira Campos, em Palmas, no 1º dia
+do mês de setembro de 2023, 202º da Independência, 135º da República e 35º do Estado.
+WANDERLEI BARBOSA CASTRO
+Governador do Estado
