@@ -1,0 +1,8 @@
+{
+  "path": "br-to",
+  "code": "BR-TO",
+  "name": "Tocantins",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-tocantins-law",
+  "build": "built: never-altered Leis Complementares of Tocantins, as enacted, from the Assembleia Legislativa (al.to.leg.br)"
+}

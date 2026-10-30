@@ -1,0 +1,705 @@
+{
+ "country": "BR-TO",
+ "acts": [
+  {
+   "slug": "lc-2021-133",
+   "short": "LC 133/2021",
+   "title": "Lei Complementar nº 133, de 2021 (Altera a Lei Complementar n° 51, de 2 de janeiro de 2008, que “Institui a Lei Orgânica do Ministério Público do Estado do Tocantins e dá outras providências”.)",
+   "url": "https://www.al.to.leg.br/arquivo/57640",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/57640",
+     "sha256": "9dbdacf8ac1f04fbdecbe3de82909932fad83e6ef0a2dffcf42089b27c45cbb7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1990-002",
+   "short": "LC 2/1990",
+   "title": "Lei Complementar nº 2, de 1990 (Altera Lei Complementar nº 01, de 11 de dezembro de 1989.)",
+   "url": "https://www.al.to.leg.br/arquivo/6214",
+   "versions": [
+    {
+     "from": "1990-04-09",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/6214",
+     "sha256": "6bdeabdde6cc168032b5cdf43ccdcaff461112c961bf8be2afdbf748cd2405e4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1995-008",
+   "short": "LC 8/1995",
+   "title": "Lei Complementar nº 8, de 1995 (Regulamenta o Conselho Estadual de Educação (CEE/TO) e dá outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/6227",
+   "versions": [
+    {
+     "from": "1995-12-11",
+     "units": 15,
+     "source_url": "https://www.al.to.leg.br/arquivo/6227",
+     "sha256": "4a5c2176fe9798b3f38fd008cc69c0de21c7d83a429fdb76ca9cf83c4f3650ad"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1998-015",
+   "short": "LC 15/1998",
+   "title": "Lei Complementar nº 15, de 1998 (Revoga disposição do inciso II, do § 3º, do artigo 10, da Lei Complementar nº 12, de 29 de novembro de 1996.)",
+   "url": "https://www.al.to.leg.br/arquivo/6241",
+   "versions": [
+    {
+     "from": "1998-10-20",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/6241",
+     "sha256": "eb17793d1eccbb33a2e6582a7dbb690e8101de62c548ac6ca9bcf98d64a67c78"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1998-017",
+   "short": "LC 17/1998",
+   "title": "Lei Complementar nº 17, de 1998 (Altera a Lei Complementar nº 10, de 11 de janeiro de 1996 e dá outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/6244",
+   "versions": [
+    {
+     "from": "1998-11-16",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/6244",
+     "sha256": "1f65aea724a44a82f2f1387f5b8c503ce6566ba429045fb6c9cfea7ef05c63f9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1998-018",
+   "short": "LC 18/1998",
+   "title": "Lei Complementar nº 18, de 1998 (Altera a Lei Complementar nº 12, de 29 de novembro de 1996 que institui a Lei Orgânica do Ministério Público e dá outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/6246",
+   "versions": [
+    {
+     "from": "1998-11-24",
+     "units": 16,
+     "source_url": "https://www.al.to.leg.br/arquivo/6246",
+     "sha256": "e2559411832d00c7d0e66b8418b3d56e49a57264faa59804a14abd9a39f365c0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-021",
+   "short": "LC 21/1999",
+   "title": "Lei Complementar nº 21, de 1999 (Dá nova redação ao art. 15 da Lei Complementar nº 9, de 19 de dezembro de 1995.)",
+   "url": "https://www.al.to.leg.br/arquivo/6253",
+   "versions": [
+    {
+     "from": "1999-11-12",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/6253",
+     "sha256": "cf8006321cf66eab9a80c354f6774d87871b66e07a353a5c85cf1a726d88e32a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-023",
+   "short": "LC 23/1999",
+   "title": "Lei Complementar nº 23, de 1999 (Altera a Lei Complementar nº 10, de 11 de janeiro de 1996.)",
+   "url": "https://www.al.to.leg.br/arquivo/6256",
+   "versions": [
+    {
+     "from": "1999-12-02",
+     "units": 5,
+     "source_url": "https://www.al.to.leg.br/arquivo/6256",
+     "sha256": "7001a199a7d55c38082d1f7c9cce1763cbc43151c12a23b7cb6010f96a8e4661"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-024",
+   "short": "LC 24/2000",
+   "title": "Lei Complementar nº 24, de 2000 (Altera a Lei Complementar 12, de 29 de novembro de 1996.)",
+   "url": "https://www.al.to.leg.br/arquivo/6259",
+   "versions": [
+    {
+     "from": "2000-11-27",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/6259",
+     "sha256": "d6151d9c238016788a371ae22f1808e76f852b3294cc87f87f16884361c51f81"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-025",
+   "short": "LC 25/2000",
+   "title": "Lei Complementar nº 25, de 2000 (Altera a Lei Complementar nº 10, de 11 de janeiro de 1996 e dá outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/6260",
+   "versions": [
+    {
+     "from": "2000-11-27",
+     "units": 6,
+     "source_url": "https://www.al.to.leg.br/arquivo/6260",
+     "sha256": "dde0bab655b4d2abe399b4f02a6817348607f6ad1202c1caf603ed4b34f21608"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-026",
+   "short": "LC 26/2000",
+   "title": "Lei Complementar nº 26, de 2000 (Altera a Lei Complementar nº 10, de 11 de janeiro de 1996 e dá outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/6262",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/6262",
+     "sha256": "36e1d37ce534144deb48f730289efe1a227c81c6db05071a0f8883d0dba99d78"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-027",
+   "short": "LC 27/2001",
+   "title": "Lei Complementar nº 27, de 2001 (Altera a Lei Complementar nº 12, de 29 de novembro de 1996.)",
+   "url": "https://www.al.to.leg.br/arquivo/6264",
+   "versions": [
+    {
+     "from": "2001-01-12",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/6264",
+     "sha256": "c9f99068e01e50dd78c998549fe8df6aebee2a63dce33252c8e891c8fa8b7ef5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-028",
+   "short": "LC 28/2001",
+   "title": "Lei Complementar nº 28, de 2001 (Dispõe sobre a elaboração, redação, alteração e consolidação das leis e dos atos normativos que menciona, no âmbito do Estado do Tocantins.)",
+   "url": "https://www.al.to.leg.br/arquivo/6267",
+   "versions": [
+    {
+     "from": "2001-06-13",
+     "units": 20,
+     "source_url": "https://www.al.to.leg.br/arquivo/6267",
+     "sha256": "f3d41f6f6389cd0a23a9a9eddbf9c1b2c56684d6d28295b65b63bbde4d48c951"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-029",
+   "short": "LC 29/2001",
+   "title": "Lei Complementar nº 29, de 2001 (Altera a Lei Complementar nº 12, de 29 de novembro de 1996, na parte que especifica.)",
+   "url": "https://www.al.to.leg.br/arquivo/6268",
+   "versions": [
+    {
+     "from": "2001-10-09",
+     "units": 6,
+     "source_url": "https://www.al.to.leg.br/arquivo/6268",
+     "sha256": "4733e33e05c3f2001c3b6352c337cee6329f08dc5249627013a7ef54c7106d64"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-030",
+   "short": "LC 30/2002",
+   "title": "Lei Complementar nº 30, de 2002 (Altera a Lei Complementar 20, de 17 de junho de 1999, que dispõe sobre a organização e o funcionamento da Procuradoria Geral do Estado.)",
+   "url": "https://www.al.to.leg.br/arquivo/6271",
+   "versions": [
+    {
+     "from": "2002-01-24",
+     "units": 8,
+     "source_url": "https://www.al.to.leg.br/arquivo/6271",
+     "sha256": "2fda489a6d6c86d82d335e26c07ab4853f2c49749bd0887a09a4598b986e3d94"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-034",
+   "short": "LC 34/2002",
+   "title": "Lei Complementar nº 34, de 2002 (Altera a Lei Complementar nº 10, de 11 de janeiro de 1996.)",
+   "url": "https://www.al.to.leg.br/arquivo/6279",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/6279",
+     "sha256": "a10763a10c2c7a9b3abb65ef93c8dc4333aa5019bba1eeda272de7e13b50ed8f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-035",
+   "short": "LC 35/2002",
+   "title": "Lei Complementar nº 35, de 2002",
+   "url": "https://www.al.to.leg.br/arquivo/6280",
+   "versions": [
+    {
+     "from": "2002-12-30",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/6280",
+     "sha256": "92560b271926ca53d9cec1447275e02bff58ce047b60d19efef2e4eb36e9542a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-036",
+   "short": "LC 36/2003",
+   "title": "Lei Complementar nº 36, de 2003 (Institui o Fundo de Previdência do Estado do Tocantins, e adota outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/6283",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 11,
+     "source_url": "https://www.al.to.leg.br/arquivo/6283",
+     "sha256": "459e5f355fcdff7c8f56d6e230a873a91505264f49507a75b3e330a5ab2617e7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-037",
+   "short": "LC 37/2004",
+   "title": "Lei Complementar nº 37, de 2004 (Altera a Lei Complementar 3, de 26 de dezembro de 1990, que dispõe sobre a Organização Básica da Polícia Militar.REVOGADA PELA)",
+   "url": "https://www.al.to.leg.br/arquivo/6285",
+   "versions": [
+    {
+     "from": "2004-03-03",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/6285",
+     "sha256": "6df6757c31f194e4a90f205c1d8acfe16a55a359a314585bdaf1bb2aee62b0a1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-038",
+   "short": "LC 38/2004",
+   "title": "Lei Complementar nº 38, de 2004 (Altera a Lei Complementar n° 10, de 11 de janeiro de 1996.)",
+   "url": "https://www.al.to.leg.br/arquivo/6287",
+   "versions": [
+    {
+     "from": "2004-08-31",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/6287",
+     "sha256": "d6d71bcc679e765ab102f45472bccbf5764edc0762737417c25681936276bbe6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-039",
+   "short": "LC 39/2004",
+   "title": "Lei Complementar nº 39, de 2004 (Altera a Lei Complementar nº 10, de 11 de janeiro de 1996, que instituiu a Lei Orgânica do Poder Judiciário do Estado do Tocantins e dá outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/6288",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/6288",
+     "sha256": "a0e1365002c541ab682f3a2a94c6813110f6a71159d9667c064e577e7e724d34"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-040",
+   "short": "LC 40/2004",
+   "title": "Lei Complementar nº 40, de 2004 (Altera a Lei Complementar 3, de 26 de dezembro de 1990, que dispõe sobre a Organização Básica da Polícia Militar.)",
+   "url": "https://www.al.to.leg.br/arquivo/6291",
+   "versions": [
+    {
+     "from": "2004-12-22",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/6291",
+     "sha256": "1b498b2930c8cdf954660a91c0e0518627459e1c14fdc8b234cfed80e4888066"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-054",
+   "short": "LC 54/2008",
+   "title": "Lei Complementar nº 54, de 2008",
+   "url": "https://www.al.to.leg.br/arquivo/14864",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/14864",
+     "sha256": "26d75638c56b44501d9736eae8667bc14debc47433935fded65efe31c247b9e5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-056",
+   "short": "LC 56/2009",
+   "title": "Lei Complementar nº 56, de 2009 (Altera a Lei Complementar nº 10, de 11 de janeiro de 1996, que instituiu a Lei Orgânica do Poder Judiciário do Estado do Tocantins e dá outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/20735",
+   "versions": [
+    {
+     "from": "2009-06-15",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/20735",
+     "sha256": "921b681098b2fe21c46bc21c094bc9e9a3235cbb301685f1167595d9f47f794d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-058",
+   "short": "LC 58/2009",
+   "title": "Lei Complementar nº 58, de 2009 (Altera a Lei Complementar 55, de 27 de maio de 2009, que organiza a Defensoria Pública do Estado do Tocantins e adota outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/22694",
+   "versions": [
+    {
+     "from": "2009-09-17",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/22694",
+     "sha256": "d5b9c27bd1d44d17cf8adcf14a396a972b2a1b1386219c873e1474153ab0ad9f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-060",
+   "short": "LC 60/2009",
+   "title": "Lei Complementar nº 60, de 2009",
+   "url": "https://www.al.to.leg.br/arquivo/23236",
+   "versions": [
+    {
+     "from": "2009-10-27",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/23236",
+     "sha256": "cef3d55c80b1f695d5a186466b8fb0b486f5a62ef3bd6d574a034469e8e0430a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-061",
+   "short": "LC 61/2009",
+   "title": "Lei Complementar nº 61, de 2009 (Altera a Lei Complementar nº 10, de 11 de janeiro de 1996, que institui a Lei Orgânica do Poder Judiciário do Estado do Tocantins.)",
+   "url": "https://www.al.to.leg.br/arquivo/23402",
+   "versions": [
+    {
+     "from": "2009-11-18",
+     "units": 5,
+     "source_url": "https://www.al.to.leg.br/arquivo/23402",
+     "sha256": "fcef4f8748f73d6ac1465825fb178f7a95524c3b3e680df6bdcb6e27f697ea57"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-062",
+   "short": "LC 62/2009",
+   "title": "Lei Complementar nº 62, de 2009 (Altera a Lei Complementar nº 10, de 11 de janeiro de 1996, que institui a Lei Orgânica do Poder Judiciário do Estado do Tocantins.)",
+   "url": "https://www.al.to.leg.br/arquivo/23705",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/23705",
+     "sha256": "93d9a5fd6716083a62cabcdd14a90a83aebdf04da14272d446091f866c1ea2ad"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-064",
+   "short": "LC 64/2010",
+   "title": "Lei Complementar nº 64, de 2010 (Altera a Lei Complementar 57, de 14 de julho de 2009, que organiza o Conselho Penitenciário do Estado do Tocantins, na parte que especifica.)",
+   "url": "https://www.al.to.leg.br/arquivo/24169",
+   "versions": [
+    {
+     "from": "2010-02-11",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/24169",
+     "sha256": "99d45b4e2996d1f1e58495c115cdff5c217b8d23c94be63fb72dc3419c026938"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-065",
+   "short": "LC 65/2010",
+   "title": "Lei Complementar nº 65, de 2010 (Altera a Lei Complementar 55, de 27 de maio de 2009, que organiza a Defensoria Pública do Estado do Tocantins, na parte que especifica.)",
+   "url": "https://www.al.to.leg.br/arquivo/24960",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/24960",
+     "sha256": "2722f0002cc5a8dd3dc08c745a0eb01174ccad635e038247a68564da5aff0d7a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-066",
+   "short": "LC 66/2010",
+   "title": "Lei Complementar nº 66, de 2010 (Dispõe sobre a reestruturação e constitucionalização da carreira de Defensor Público do Estado do Tocantins.)",
+   "url": "https://www.al.to.leg.br/arquivo/24961",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/24961",
+     "sha256": "3001f6295e290a530862486b8ef697118168ff9dae9519d1acc3a9eb1b2bb735"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-067",
+   "short": "LC 67/2010",
+   "title": "Lei Complementar nº 67, de 2010 (Dispõe sobre a reestruturação e constitucionalização da carreira de Procurador do Estado do Tocantins.)",
+   "url": "https://www.al.to.leg.br/arquivo/24962",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/24962",
+     "sha256": "b87e1755c9326a110f2b8f4803ba5ea21481bb66b371de48824236e49749215c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-068",
+   "short": "LC 68/2010",
+   "title": "Lei Complementar nº 68, de 2010 (Altera a Lei Complementar 43, de 30 de dezembro de 2005 e adota outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/26182",
+   "versions": [
+    {
+     "from": "2010-11-16",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/26182",
+     "sha256": "81d1d7accb9f9768ff0e663cdcbb15efc1730c7fc8c3c92c9925314767c8572e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-069",
+   "short": "LC 69/2010",
+   "title": "Lei Complementar nº 69, de 2010",
+   "url": "https://www.al.to.leg.br/arquivo/26191",
+   "versions": [
+    {
+     "from": "2010-11-17",
+     "units": 8,
+     "source_url": "https://www.al.to.leg.br/arquivo/26191",
+     "sha256": "3589a77059c5e2df2247df99640ddb40c8dd4e552c16a4b38279d248571bf2f7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-070",
+   "short": "LC 70/2011",
+   "title": "Lei Complementar nº 70, de 2011 (Altera o art. 34 da Lei 1.287, de 28 de dezembro de 2001, que dispõe sobre o Código Tributário do Estado do Tocantins.)",
+   "url": "https://www.al.to.leg.br/arquivo/26941",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/26941",
+     "sha256": "b82d63e5e68c49e4c2fccfe2276dad6af8e29ddd8252c7c39850e781161350ed"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-073",
+   "short": "LC 73/2011",
+   "title": "Lei Complementar nº 73, de 2011 (Altera a Lei Complementar nº 51, de 02 de janeiro de 2008, e adota outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/27479",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/27479",
+     "sha256": "7f642013695b3e1b1df3418f4f5c6213275448478c42aeb873c83dc4b8170cdf"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-074",
+   "short": "LC 74/2011",
+   "title": "Lei Complementar nº 74, de 2011",
+   "url": "https://www.al.to.leg.br/arquivo/28078",
+   "versions": [
+    {
+     "from": "2011-08-11",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/28078",
+     "sha256": "228868631617b44fc7595504faccf5ed01f301fc1f74c6e95fb11f043c6426af"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-076",
+   "short": "LC 76/2011",
+   "title": "Lei Complementar nº 76, de 2011",
+   "url": "https://www.al.to.leg.br/arquivo/28210",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/28210",
+     "sha256": "8dabba5fe2a223a959ab0094fd65be8f3a2d10d7889d974ba9aab7cf26cee387"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-081",
+   "short": "LC 81/2012",
+   "title": "Lei Complementar nº 81, de 2012 (Atribui nova denominação à TV Educativa outorgada ao Poder Público Estadual, e adota outra providência.)",
+   "url": "https://www.al.to.leg.br/arquivo/30737",
+   "versions": [
+    {
+     "from": "2012-08-22",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/30737",
+     "sha256": "aa183a529ae076bad1ea1989d6b16ceb64367b0692f34bdd70bb16f78b1fe527"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-082",
+   "short": "LC 82/2012",
+   "title": "Lei Complementar nº 82, de 2012 (Altera a Lei Complementar 78, de 11 de abril de 2012, que dispõe sobre prazos para encaminhamento de normas à Assembleia Legislativa)",
+   "url": "https://www.al.to.leg.br/arquivo/30738",
+   "versions": [
+    {
+     "from": "2012-08-22",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/30738",
+     "sha256": "053e2b04c793b446b7ac1435b463e4135704d8818b33407c0c5002a52ce518ae"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-084",
+   "short": "LC 84/2013",
+   "title": "Lei Complementar nº 84, de 2013 (Altera a Lei Complementar n° 51, de 2 de janeiro de 2008, que institui a Lei Orgânica do Ministério Público do Estado do Tocantins e dá outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/32813",
+   "versions": [
+    {
+     "from": "2013-05-23",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/32813",
+     "sha256": "9de3b975c87c88614378d7a797adc607551fef9fb5a0438c4083bf13b0aa8f4d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-086",
+   "short": "LC 86/2013",
+   "title": "Lei Complementar nº 86, de 2013",
+   "url": "https://www.al.to.leg.br/arquivo/33389",
+   "versions": [
+    {
+     "from": "2013-08-28",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/33389",
+     "sha256": "30ba819589ba0f9c2bae74c1650764977b0e182020db6f44a7e0442220fa40a7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-088",
+   "short": "LC 88/2013",
+   "title": "Lei Complementar nº 88, de 2013 (Altera a Lei Complementar 45, de 3 de abril de 2006, que dispõe sobre a Organização Básica do Corpo de Bombeiros Militar do Estado do Tocantins.)",
+   "url": "https://www.al.to.leg.br/arquivo/33490",
+   "versions": [
+    {
+     "from": "2013-09-05",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/33490",
+     "sha256": "0a047c4d69c6b653de82a4e8e83cbe4eb3fbc5c1e15bd8956927cca57f061d2b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-089",
+   "short": "LC 89/2013",
+   "title": "Lei Complementar nº 89, de 2013 (Altera a Lei Complementar nº 10, de 11 de janeiro de 1996.)",
+   "url": "https://www.al.to.leg.br/arquivo/33491",
+   "versions": [
+    {
+     "from": "2013-09-05",
+     "units": 5,
+     "source_url": "https://www.al.to.leg.br/arquivo/33491",
+     "sha256": "ef33e97fba11401d2af08c051d806c70a582225c168af1d778247ca3ce1f7ab7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-047",
+   "short": "LC 47/2006",
+   "title": "Lei Complementar nº 47, de 2006 (Altera a Lei Complementar nº 12, de 29 de novembro de 1996, que institui a Lei Orgânica do Ministério Público do Estado do Tocantins.)",
+   "url": "https://www.al.to.leg.br/arquivo/6305",
+   "versions": [
+    {
+     "from": "2013-09-27",
+     "units": 7,
+     "source_url": "https://www.al.to.leg.br/arquivo/6305",
+     "sha256": "e6a40debb0d1d70a80850569775b205c33bedd9f7940b2791fbd3febb9a595a9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-091",
+   "short": "LC 91/2014",
+   "title": "Lei Complementar nº 91, de 2014 (Altera a Lei Complementar n° 051, de 02 de janeiro de 2008, que Institui a Lei Orgânica do Ministério Público do Estado do Tocantins e dá outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/34771",
+   "versions": [
+    {
+     "from": "2014-04-02",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/34771",
+     "sha256": "88d723a8e86307fdbdca731b720b5041630c507c6b45726385e2221da2942845"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-094",
+   "short": "LC 94/2014",
+   "title": "Lei Complementar nº 94, de 2014 (Altera a Lei Complementar n° 51, de 2 de janeiro de 2008, que Institui a Lei Orgânica do Ministério Público do Estado do Tocantins e dá outras providências.)",
+   "url": "https://www.al.to.leg.br/arquivo/35430",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 7,
+     "source_url": "https://www.al.to.leg.br/arquivo/35430",
+     "sha256": "8d5039b3f6d5588a86490b3da50c6eb6ed736e9c15febb604d87cb6d16caf220"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-096",
+   "short": "LC 96/2015",
+   "title": "Lei Complementar nº 96, de 2015",
+   "url": "https://www.al.to.leg.br/arquivo/37129",
+   "versions": [
+    {
+     "from": "2015-04-09",
+     "units": 4,
+     "source_url": "https://www.al.to.leg.br/arquivo/37129",
+     "sha256": "a5446991d0076cb748babc4ed11c35746c6a9e826c59b4220f83ce25826064fe"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-097",
+   "short": "LC 97/2015",
+   "title": "Lei Complementar nº 97, de 2015",
+   "url": "https://www.al.to.leg.br/arquivo/37287",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/37287",
+     "sha256": "5a79efd5d4cb7feb64970fb48851db900ff488fb9384631c7fa85bb3c40ffb67"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-098",
+   "short": "LC 98/2015",
+   "title": "Lei Complementar nº 98, de 2015 (Altera a Lei Complementar 79, de 27 de abril de 2012, que dispõe sobre a organização básica da Polícia Militar do Estado do Tocantins.)",
+   "url": "https://www.al.to.leg.br/arquivo/37289",
+   "versions": [
+    {
+     "from": "2015-04-16",
+     "units": 3,
+     "source_url": "https://www.al.to.leg.br/arquivo/37289",
+     "sha256": "09de3b14c4115ce16ae3327fcef273fd0e6cbc9f8fe27b5709e911641a78b9f0"
+    }
+   ]
+  }
+ ]
+}
