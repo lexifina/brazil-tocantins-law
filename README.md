@@ -1,43 +1,47 @@
-# Tocantins: law history in git
+# Tocantins: law in git
 
-The law of the State of Tocantins (Estado do Tocantins) (Brazil) as a git history: one file per Artigo, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is Portuguese, the only official language.
-
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
+Selected laws of the State of Tocantins, in Portuguese, from the Assembleia Legislativa do Estado do Tocantins.
 
 ## What this repository holds
 
 | Folder | Act | Versions |
 | --- | --- | ---: |
-| `lc-<year>-<number>/` | Leis Complementares that were never altered, each as enacted (97 acts) | 1 each |
+| `lc-<year>-<number>/` | Existing complementary laws, as enacted (50 acts) | 1 each |
+| `lei-<year>-<number>/` | Ordinary laws as current-text baselines (1,014 acts), complete text in `texto.md` | 1 each |
+| Additional `lc-<year>-<number>/` | Complementary laws as current-text baselines (2 acts), complete text in `texto.md` | 1 each |
 
-Only Leis Complementares that were never altered are included. The Assembleia's compiled PDFs print an altered provision's earlier and later wordings one after the other, each with a note naming the act that gave it, and do not mark which one is in force, so altered acts, revoked acts and the Constituição do Estado (compiled the same way) are left out rather than guessed. Ordinary Leis are not included yet.
+The record contains 1,066 selected acts: 50 existing complementary laws as enacted and 1,016 additional current-text baselines. Each new baseline is labelled the oldest version available in this record and credited to the publisher. The existing complementary laws retain their as-enacted label. This is a selected-acts corpus, with no complete historical record.
 
 ## Source
 
-[Assembleia Legislativa do Estado do Tocantins, Legislação Estadual](https://www.al.to.leg.br/legislacaoEstadual), published by the Assembleia Legislativa do Estado do Tocantins. Each version names the page it was taken from and that page's sha256, in `data/versions.json`.
+[Assembleia Legislativa do Estado do Tocantins, Legislação Estadual](https://www.al.to.leg.br/legislacaoEstadual). Each version identifies its official PDF and SHA-256 in `data/versions.json`. Only the Diário Oficial do Estado is authoritative.
 
 ## Dates
 
-Each act is dated by its publication in the Diário Oficial do Estado where the Assembleia's record gives that date, otherwise by the act's own date in its title (Tocantins Leis Complementares take effect on publication). Commits are at noon in Palmas.
+The additional current-text acts are dated by their own commencement clauses: the printed gazette publication day, a fixed stated date, or a stated number of days after the printed publication. Each version note quotes both source statements and explains any calculation. Nine additional acts commence after publication. For example, Lei 5.016/2026 was published on 4 May 2026 and takes effect 120 days later, on 1 September 2026. Existing complementary laws retain their recorded dates and labels. In-force dates describe legal commencement, independently of the git commit timestamp.
 
-## How it is built
+## Reading the record
 
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+| Question | Command |
+| --- | --- |
+| Who supplied a line? | `git blame <act>/texto.md` |
+| What versions are recorded? | `git log -- <act>/` |
+| What changed between revisions? | `git diff <old> <new> -- <act>/` |
 
-Each act's PDF (text layer) becomes one file per Art.; headings stand above the first article under them; `000-titulo.md` holds the title, the publication line, the ementa and the enacting formula. Wrapped lines are joined; a line that does not reach the right margin ends its paragraph. An act is taken as never altered when its PDF carries no compilation mark (no red text, no small italic note, no line starting with "*", no "Revogada" or "Alterada" line under the title) and no other Lei Complementar on the list cites it next to a word of alteration or repeal. Acts whose tables a second PDF reader reads in a different order are left out.
+## What author means
+
+The publisher supplies current-text baselines. Existing as-enacted versions name the original law. Lexifina is the committer; the author labels identify provenance rather than a person drafting the text.
 
 ## How it is checked
 
-Every version is read back from git on the day it took effect (`tools/check_repo.py`) and must match the corpus; an independent letters-and-digits comparison of every version against the source page must show no difference. Results are in `REPRODUCE.md`.
-
-## What "author" means
-
-The author of each commit is the law that made the text, or, for a consolidated text, the publisher, with an e-mail address that cannot exist; the committer is always Lexifina.
+The additional law text is compared word for word, including punctuation, with the official PDF using two independent PDF readers. The files are also checked on their version dates. Repeated builds establish reproducibility. Source decisions are recorded in `REPRODUCE.md`.
 
 ## Limits
 
-Not a complete history: only never-altered Leis Complementares, each as enacted. The list shows no record for Leis Complementares nos 50, 119, 122 and 130, so an alteration made by one of them cannot be seen. Ordinary laws are not checked for alterations. The text is not the official version: only the Diário Oficial do Estado is authoritative. Text after the last article (place, date, signatures, annexes) stays in the last article's file; tables are flattened into lines.
+Compiled PDFs with competing wordings, possible later amendments, uncertain commencement dates, images requiring assessment and scans requiring OCR are excluded from the additional baselines. Each included act is a single-file act: all its source text, textual annexes and signatures appear in `texto.md`. The 50 existing complementary laws retain their article files. Missing acts and versions are outside this record and cannot be inferred from it.
 
 ## Licence
 
-See [LICENSE](LICENSE): Brazilian law texts are not protected by copyright (Lei 9.610/1998, art. 8, IV). Fonte: Assembleia Legislativa do Estado do Tocantins, Legislação Estadual, Assembleia Legislativa do Estado do Tocantins.
+Brazilian official law texts are not protected by copyright under Lei 9.610/1998, art. 8, IV. See [LICENSE](LICENSE).
+
+Fonte: Assembleia Legislativa do Estado do Tocantins, Legislação Estadual. Este acervo reúne leis selecionadas e não substitui o Diário Oficial do Estado.
