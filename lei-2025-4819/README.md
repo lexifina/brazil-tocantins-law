@@ -1,0 +1,7 @@
+# Lei nº 4819, de 2025
+
+Lei 4819/2025 · 1 versions, from 2025-10-21 (latest in force: 2025-10-21) · <https://www.al.to.leg.br/arquivo/77639>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Texto integral | [texto.md](texto.md) | 0 |  |
