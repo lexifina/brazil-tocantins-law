@@ -4,5 +4,5 @@
   "name": "Tocantins",
   "level": "state",
   "repo": "https://github.com/lexifina/brazil-tocantins-law",
-  "build": "selected Tocantins legislation: 50 existing complementary laws as enacted and 1,016 current-text baselines (1,014 ordinary and 2 complementary laws), one version per act, from the Assembleia Legislativa"
+  "build": "selected Tocantins legislation: article files for the original as-enacted complementary laws and texto.md for current-text ordinary and complementary baselines; released acts and versions are listed in data/versions.json"
 }

@@ -7,10 +7,10 @@ Selected laws of the State of Tocantins, in Portuguese, from the Assembleia Legi
 | Folder | Act | Versions |
 | --- | --- | ---: |
 | `lc-<year>-<number>/` | Existing complementary laws, as enacted (50 acts) | 1 each |
-| `lei-<year>-<number>/` | Ordinary laws as current-text baselines (1,014 acts), complete text in `texto.md` | 1 each |
-| Additional `lc-<year>-<number>/` | Complementary laws as current-text baselines (2 acts), complete text in `texto.md` | 1 each |
+| `lei-<year>-<number>/` | Selected ordinary laws as current-text baselines, complete text in `texto.md` | 1 each |
+| Additional `lc-<year>-<number>/` | Selected complementary laws as current-text baselines, complete text in `texto.md` | 1 each |
 
-The record contains 1,066 selected acts: 50 existing complementary laws as enacted and 1,016 additional current-text baselines. Each new baseline is labelled the oldest version available in this record and credited to the publisher. The existing complementary laws retain their as-enacted label. This is a selected-acts corpus, with no complete historical record.
+The released acts and versions are listed in [data/versions.json](data/versions.json). The original set comprises 50 complementary laws as enacted. Additional current-text baselines are recorded as they are released, each labelled the oldest version available in this record and credited to the publisher. The existing complementary laws retain their as-enacted label. This is a selected-acts corpus, with no complete historical record.
 
 ## Source
 
@@ -18,7 +18,7 @@ The record contains 1,066 selected acts: 50 existing complementary laws as enact
 
 ## Dates
 
-The additional current-text acts are dated by their own commencement clauses: the printed gazette publication day, a fixed stated date, or a stated number of days after the printed publication. Each version note quotes both source statements and explains any calculation. Nine additional acts commence after publication. For example, Lei 5.016/2026 was published on 4 May 2026 and takes effect 120 days later, on 1 September 2026. Existing complementary laws retain their recorded dates and labels. In-force dates describe legal commencement, independently of the git commit timestamp.
+The additional current-text acts are dated by their own commencement clauses: the printed gazette publication day, a fixed stated date, or a stated number of days after the printed publication. Each version note quotes both source statements and explains any calculation. In the selected current-text set, nine acts commence after publication. For example, Lei 5.016/2026 was published on 4 May 2026 and takes effect 120 days later, on 1 September 2026. Existing complementary laws retain their recorded dates and labels. In-force dates describe legal commencement, independently of the git commit timestamp.
 
 ## Reading the record
 
