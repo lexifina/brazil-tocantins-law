@@ -1,5 +1,7 @@
 # Tocantins: law in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Tocantins, Brazil, which global-law reads at `brazil/tocantins/acts/`.
+
 Selected laws of the State of Tocantins, in Portuguese, from the Assembleia Legislativa do Estado do Tocantins.
 
 ## What this repository holds
